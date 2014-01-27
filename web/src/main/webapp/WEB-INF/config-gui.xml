@@ -312,4 +312,9 @@
   <repository>
     <thesaurus>http://raw.github.com/geonetwork/util-repository/master/thesaurus.xml</thesaurus>
   </repository>
+  <ipa>r_piemon</ipa>
 </config>
+
+
+
+
